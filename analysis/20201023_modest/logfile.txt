@@ -1,0 +1,8 @@
+2020-10-22 16:19 webserver   : INFO     ### Job snydj6 started.
+2020-10-22 16:21 MODEST      : INFO     DONE: [insertion/genome] line 1 insert=GGGACGGG,position=1529062
+2020-10-22 16:21 MODEST      : INFO     w3110_kops_202010230016.1_[->gggacggg].1529062_genome_insertion_RP1
+2020-10-22 16:21 MODEST      : INFO     DONE: [insertion/genome] line 2 insert=GGGACGGG,position=1532180
+2020-10-22 16:21 MODEST      : INFO     w3110_kops_202010230017.1_[->gggacggg].1532180_genome_insertion_RP1
+2020-10-22 16:21 MODEST      : INFO     DONE: [insertion/genome] line 3 insert=GGGAGGGG,position=1559011
+2020-10-22 16:21 MODEST      : INFO     w3110_kops_202010230018.1_[->gggagggg].1559011_genome_insertion_RP1_OPT:-2(-11.7)
+2020-10-22 16:21 webserver   : INFO     ### Job snydj6 done.

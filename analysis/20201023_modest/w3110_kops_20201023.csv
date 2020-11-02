@@ -1,0 +1,4 @@
+﻿id,operation,gene,line,options,mutation,barcodes,oligo,mfe,wt,altered
+w3110_kops_202010230016.1,insertion,genome,line 1,"insert=GGGACGGG,position=1529062",[->gggacggg].1529061,,AAATGGTGTTTTCCCCTGCCCCcccgtcccTCCAATAATGTGTAGCTCTCAC,-2.0
+w3110_kops_202010230017.1,insertion,genome,line 2,"insert=GGGACGGG,position=1532180",[->gggacggg].1532179,,TTTCATGATCTTGCCCTGCCCCcccgtcccGTCCCTTGCTCTCATGTCTTTC,-6.400000095367432
+w3110_kops_202010230018.1,insertion,genome,line 3,"insert=GGGAGGGG,position=1559011",[->gggagggg].1559010,,GATTATTGCTGGATTCCCTCCCCGcccctcccCCATTGATAAACCGCTGGAG,-11.699999809265137
