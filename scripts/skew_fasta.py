@@ -6,6 +6,7 @@ Created on Sat Dec 13 2:36:20 2020
 @author: tomoki
 """
 
+#   モジュールをインポート
 from Bio.Seq import Seq
 from Bio import SeqIO
 from Bio.Alphabet import generic_dna
